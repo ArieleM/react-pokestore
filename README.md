@@ -1,5 +1,5 @@
 # PokeStore
-#### [Acesse a demo](https://pokestore-fire-water.netlify.app/)
+#### [Acesse a demo aqui!](https://pokestore-fire-water.netlify.app/)
 
 ### :computer: Tecnologias
 * HTML
@@ -20,7 +20,7 @@
 - [x] Modal de obrigado ao finalizar compra
 - [x] Salvar os dados da compra do usuário localmente para não perdê-las ao atualizar a página
 ***
-### :star2: PokeStore - Preview 
+### :star2: PokeStore - Resultado Final 
 
 Loja de Pokemon do tipo água
 ![Loja water](https://github.com/ArieleM/PokeStore/blob/master/pokestoreWater.png)
@@ -40,7 +40,7 @@ Abra a pasta PokeStore
 ```
 cd PokeStore
 ```
-Rodar o yarna para instalar as dependências
+Rodar o yarn para instalar as dependências
 ```
 yarn install
 ```
